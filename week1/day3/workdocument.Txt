@@ -1,0 +1,126 @@
+
+1) WHILE LOOP
+
+Definition:
+
+A while loop is used when we want to repeat something until a condition becomes false.
+Simple Meaning:
+
+"Jab tak condition true hai, tab tak loop chalta rahega."
+
+Real Life Example:
+
+Imagine filling a water bottle.
+
+Bottle empty → Fill water
+
+Still not full → Fill again
+
+Bottle full → Stop
+
+This is how a while loop works.
+
+
+Important Points:
+
+1. Condition is checked first.
+
+2. If condition is true, the loop runs.
+
+3. If condition becomes false, the loop stops.
+
+4. Variable update is important.
+
+5. Without updating, infinite loop can happen.
+
+Main Uses:
+
+• Counting numbers
+
+• Repeating tasks
+
+• Password checking
+
+• Pattern printing
+
+• Menu systems
+
+Easy Understanding:
+
+While loop means:
+
+"Repeat until condition becomes false."
+
+2) FOR LOOP
+
+Definition:
+
+A for loop is used when we already know how many times repetition is needed.
+
+Simple Meaning:
+
+"Fixed number of repetitions ke liye for loop use hota hai."
+
+Real Life Example:
+
+Teacher taking attendance of 50 students.
+
+Important Points:
+1. Used for fixed repetition.
+
+2. Automatically moves to next value.
+
+3. Easy and clean structure.
+
+4. Commonly used in programming.
+
+3) ENUMERATOR
+
+Definition:
+
+Enumerator gives both:
+
+• Position number
+
+• Value
+together at the same time.
+
+Simple Meaning:
+
+"Value ke saath uska position bhi milta hai."
+
+Real Life Example:
+
+1 → Rahul
+
+2 → Aman
+
+3 → Priya
+
+Position = Index
+
+Name = Value
+
+Enumerator gives both together.
+
+Important Points:
+
+1. Gives index position.
+
+2. Gives actual value.
+
+3. Saves time.
+
+4. Makes logic easier.
+
+Main Uses:
+
+• Numbering items
+
+• Ranking systems
+
+• Menus
+
+• Data tracking
+
+• Pattern logic
