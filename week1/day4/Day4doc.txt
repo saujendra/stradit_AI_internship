@@ -1,0 +1,49 @@
+## What is a Function?
+A function is a named, reusable block of code that performs a specific task. Instead of
+repeating code, you write it once inside a function and 'call' it whenever needed.
+• Avoid repetition — Write once, use many times (DRY: Don't Repeat Yourself)
+• Organise code — Break large programs into smaller, manageable pieces
+• Make code readable — A well-named function explains what it does
+• Enable testing — Test each function independently
+
+
+ 1>>.Function:
+1learned what a funcation like
+2.funcation works like a machine
+3.we give input and it returns output
+4.learned how to create and call functions
+
+2.>>Arguments and parameter :
+1.understood the difference between arguments  and parameters
+2.parameters are variables inside the function
+3.arguments are values passed during funcation
+
+3.>> Types of Arguments
+
+1. Single argument
+Function takes one value.
+
+
+2. Multiple arguments
+Function takes more than one value.
+
+3. Positional arguments
+Values are passed in the correct order.
+
+4. Default arguments
+
+Function already has a default value.
+
+5. Keyword arguments
+Values are passed using parameter names.
+
+6. Variable length arguments (*args)
+Function can take many values at once.
+
+>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<
+Things Still Need More Practice
+Need more practice with *args.
+
+Need more confidence in positional and default arguments.
+
+Need more project-based function practice.
