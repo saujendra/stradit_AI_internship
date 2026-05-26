@@ -31,6 +31,10 @@ if text==text[::-1]:
 else:
   print("Non Palindrome")
 
+
+
+
+
 #task3 Password Genereator
 import string
 import random
@@ -47,6 +51,9 @@ password = genrate_password(password_length)
 print("Generated Password:", password)
 for i in range(5):
  print(f"passward No.{i+1}={genrate_password()} \n")
+
+
+
 
 #task4 sentence analyser
 text=input("Enter the Text:")
@@ -83,7 +90,20 @@ def analyse_sentence(text):
    print(analyse)
 analyse_sentence(text)
 
+
+
+
+
+
+
+
+
 #Task5 converter Toolkit
+
+
+
+
+
 def km_to_miles(km):
     miles = km * 0.621371
     print(f"{km} km = {miles:.2f} miles")
@@ -148,6 +168,7 @@ def determine_grade(avg):
         return "D"
     else:
         return "F"
+
 
 # Main program
 name, marks = get_student_info()
